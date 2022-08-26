@@ -1,0 +1,1 @@
+import{a as e,c as t,b as a}from"./index.88e399d2.js";const s=a("h1",null,"Gestion des participants",-1),n=[s],i={__name:"Participants",setup(c){return(o,r)=>(e(),t("main",null,n))}};export{i as default};
